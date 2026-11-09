@@ -1,0 +1,9 @@
+OBTENIR L'APK (sans rien installer sur PC) :
+1. Créez un compte gratuit sur github.com
+2. Nouveau dépôt (New repository) > nom : inventaire
+3. "uploading an existing file" : déposez TOUT le contenu de ce dossier
+   (dossiers www et .github inclus), puis "Commit changes".
+4. Onglet "Actions" > "Build APK" > attendez ~5 min (coche verte).
+5. Ouvrez l'exécution > section "Artifacts" > téléchargez "Inventaire-APK" (zip).
+6. Dézippez, envoyez app-debug.apk sur le téléphone, installez-le
+   (autorisez "sources inconnues").
